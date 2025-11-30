@@ -4,6 +4,6 @@ matplotlib
 joblib
 numpy
 torch
-sklearn     
+scikit-learn     
 seaborn
 scipy  
